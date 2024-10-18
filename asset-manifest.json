@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Timopheeva/employee_accounting_app/static/css/main.cce5d097.css",
-    "main.js": "/Timopheeva/employee_accounting_app/static/js/main.24db2961.js",
-    "index.html": "/Timopheeva/employee_accounting_app/index.html",
-    "main.cce5d097.css.map": "/Timopheeva/employee_accounting_app/static/css/main.cce5d097.css.map",
-    "main.24db2961.js.map": "/Timopheeva/employee_accounting_app/static/js/main.24db2961.js.map"
+    "main.css": "/employee_accounting_app/static/css/main.cce5d097.css",
+    "main.js": "/employee_accounting_app/static/js/main.24db2961.js",
+    "index.html": "/employee_accounting_app/index.html",
+    "main.cce5d097.css.map": "/employee_accounting_app/static/css/main.cce5d097.css.map",
+    "main.24db2961.js.map": "/employee_accounting_app/static/js/main.24db2961.js.map"
   },
   "entrypoints": [
     "static/css/main.cce5d097.css",
