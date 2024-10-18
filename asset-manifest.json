@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Timopheeva/employee_accounting_app.git/static/css/main.cce5d097.css",
+    "main.js": "/Timopheeva/employee_accounting_app.git/static/js/main.24db2961.js",
+    "index.html": "/Timopheeva/employee_accounting_app.git/index.html",
+    "main.cce5d097.css.map": "/Timopheeva/employee_accounting_app.git/static/css/main.cce5d097.css.map",
+    "main.24db2961.js.map": "/Timopheeva/employee_accounting_app.git/static/js/main.24db2961.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cce5d097.css",
+    "static/js/main.24db2961.js"
+  ]
+}
